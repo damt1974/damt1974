@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Paysage on theraulaz.ch</title>
-    <link>http://localhost:1313/macroastro.github.io/tags/paysage/</link>
+    <link>https://damt1974.github.io/damt1974/tags/paysage/</link>
     <description>Recent content in Paysage on theraulaz.ch</description>
     <image>
       <title>theraulaz.ch</title>
-      <url>http://localhost:1313/macroastro.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/macroastro.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>fr</language>
     <lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/macroastro.github.io/tags/paysage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://damt1974.github.io/damt1974/tags/paysage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les Dents du midi by night</title>
-      <link>http://localhost:1313/macroastro.github.io/posts/les-dents-du-midi-by-night/</link>
+      <link>https://damt1974.github.io/damt1974/posts/les-dents-du-midi-by-night/</link>
       <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/macroastro.github.io/posts/les-dents-du-midi-by-night/</guid>
+      <guid>https://damt1974.github.io/damt1974/posts/les-dents-du-midi-by-night/</guid>
       <description>&lt;h1 id=&#34;les-dents-du-midi-by-night&#34;&gt;Les Dents du Midi by night&lt;/h1&gt;
 &lt;p&gt;19 OCTOBRE 2024&lt;/p&gt;
 &lt;p&gt;Lumix G9 – Olympus 25mm 1.2 – 18 octobre 2024&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Dents-du-Midi!&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/macroastro.github.io/macroastro.github.io/images/Astro-dents-midi-01.jpg.webp&#34; title=&#34;Astro-dents-midi-01.jpg.webp&#34;&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;img alt=&#34;Dents-du-Midi!&#34; loading=&#34;lazy&#34; src=&#34;https://damt1974.github.io/damt1974/damt1974/images/Astro-dents-midi-01.jpg.webp&#34; title=&#34;Astro-dents-midi-01.jpg.webp&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
