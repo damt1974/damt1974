@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pages on theraulaz.ch</title>
-    <link>http://localhost:1313/pages/</link>
+    <link>https://damt1974.github.io/macroastro.github.io/pages/</link>
     <description>Recent content in Pages on theraulaz.ch</description>
     <image>
       <title>theraulaz.ch</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://damt1974.github.io/macroastro.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://damt1974.github.io/macroastro.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>fr</language>
-    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://damt1974.github.io/macroastro.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/pages/%C3%A0-propos/</link>
+      <link>https://damt1974.github.io/macroastro.github.io/pages/%C3%A0-propos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pages/%C3%A0-propos/</guid>
+      <guid>https://damt1974.github.io/macroastro.github.io/pages/%C3%A0-propos/</guid>
       <description>&lt;p&gt;Ceci est un essai&lt;/p&gt;</description>
     </item>
   </channel>

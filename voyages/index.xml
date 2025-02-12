@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Voyages on theraulaz.ch</title>
-    <link>http://localhost:1313/voyages/</link>
+    <link>https://damt1974.github.io/macroastro.github.io/voyages/</link>
     <description>Recent content in Voyages on theraulaz.ch</description>
     <image>
       <title>theraulaz.ch</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://damt1974.github.io/macroastro.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://damt1974.github.io/macroastro.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/voyages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://damt1974.github.io/macroastro.github.io/voyages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La Thaïlande</title>
-      <link>http://localhost:1313/voyages/tha%C3%AFlande/</link>
+      <link>https://damt1974.github.io/macroastro.github.io/voyages/tha%C3%AFlande/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/voyages/tha%C3%AFlande/</guid>
+      <guid>https://damt1974.github.io/macroastro.github.io/voyages/tha%C3%AFlande/</guid>
       <description>La Thaïlande, anciennement connue sous le nom de Siam, a une histoire riche qui remonte à plus de mille ans. Le pays a été le berceau de plusieurs anciens royaumes et cultures, dont le puissant royaume de Sukhothaï au XIIIe siècle, suivi par le royaume d&amp;#39;Ayutthaya au XIVe siècle. Ces royaumes ont joué un rôle crucial dans l&amp;#39;expansion du bouddhisme et la construction de magnifiques temples et monuments.
 </description>
     </item>
     <item>
       <title>Le Cambodge</title>
-      <link>http://localhost:1313/voyages/cambodge/</link>
+      <link>https://damt1974.github.io/macroastro.github.io/voyages/cambodge/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/voyages/cambodge/</guid>
+      <guid>https://damt1974.github.io/macroastro.github.io/voyages/cambodge/</guid>
       <description>Le Cambodge a une histoire riche et complexe qui remonte à plus de deux millénaires. Il a été le centre de puissants royaumes hindous et bouddhistes, qui ont laissé derrière eux un héritage architectural remarquable, notamment les célèbres temples d&amp;#39;Angkor. Pendant des siècles, le royaume khmer a prospéré dans la région, contrôlant une grande partie de l&amp;#39;Asie du Sud-Est.
 </description>
     </item>
     <item>
       <title>Voyages</title>
-      <link>http://localhost:1313/voyages/voyages/</link>
+      <link>https://damt1974.github.io/macroastro.github.io/voyages/voyages/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/voyages/voyages/</guid>
+      <guid>https://damt1974.github.io/macroastro.github.io/voyages/voyages/</guid>
       <description>La photographie de voyage va bien au-delà de simples photos. C&amp;#39;est un moyen de s&amp;#39;immerger pleinement dans l&amp;#39;instant présent, de saisir l&amp;#39;essence des lieux et des cultures que l&amp;#39;on découvre. Chaque cliché raconte une histoire unique, avec des sourires, des paysages incroyables, des saveurs exotiques et des rencontres inoubliables.
 </description>
     </item>
