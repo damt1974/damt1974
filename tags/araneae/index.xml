@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Araneae on theraulaz.ch</title>
-    <link>https://damt1974.github.io/damt1974/tags/araneae/</link>
+    <link>http://localhost:1313/tags/araneae/</link>
     <description>Recent content in Araneae on theraulaz.ch</description>
     <image>
       <title>theraulaz.ch</title>
-      <url>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://damt1974.github.io/damt1974/tags/araneae/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/araneae/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L&#39;Ordre des Araignées (Araneae)</title>
-      <link>https://damt1974.github.io/damt1974/macrophotographie/macrophotographie-araneae/</link>
+      <link>http://localhost:1313/macrophotographie/araneae/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/macrophotographie/macrophotographie-araneae/</guid>
+      <guid>http://localhost:1313/macrophotographie/araneae/</guid>
       <description>&lt;h1 id=&#34;lordre-des-araignées-araneae&#34;&gt;L&amp;rsquo;Ordre des Araignées (Araneae)&lt;/h1&gt;
 &lt;p&gt;L&amp;rsquo;Ordre des Araignées (Araneae) sont des invertébrés arthropodes, avec près de 50&#39;000 espèces connues (2021). Une seule espèce est principalement herbivore.&lt;/p&gt;
 &lt;p&gt;Elles ne font pas partie des insectes.&lt;/p&gt;
@@ -29,9 +29,9 @@
     </item>
     <item>
       <title>Les Agelenidae - Les araignées à toile en entonnoir</title>
-      <link>https://damt1974.github.io/damt1974/araneae/araneae-agelenidae/</link>
+      <link>http://localhost:1313/arthropodes/araignees/agelenidae/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/araneae/araneae-agelenidae/</guid>
+      <guid>http://localhost:1313/arthropodes/araignees/agelenidae/</guid>
       <description>&lt;h1 id=&#34;les-agelenidae---les-araignées-à-toile-en-entonnoir&#34;&gt;Les Agelenidae - Les araignées à toile en entonnoir&lt;/h1&gt;
 &lt;p&gt;Les Agelenidae - Les araignées à toile en entonnoir, sont une famille d&amp;rsquo;araignées qui construisent des toiles spécifiques en forme d&amp;rsquo;entonnoir pour capturer leurs proies. Voici un résumé des principales caractéristiques des Agelenidae :&lt;/p&gt;
 &lt;h2 id=&#34;toile-en-entonnoir-&#34;&gt;Toile en entonnoir :&lt;/h2&gt;
@@ -39,9 +39,9 @@
     </item>
     <item>
       <title>Les Amaurobiidae - Les araignées-loups</title>
-      <link>https://damt1974.github.io/damt1974/araneae/araneae-amaurobiidae/</link>
+      <link>http://localhost:1313/arthropodes/araignees/amaurobiidae/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/araneae/araneae-amaurobiidae/</guid>
+      <guid>http://localhost:1313/arthropodes/araignees/amaurobiidae/</guid>
       <description>&lt;h1 id=&#34;les-amaurobiidae---les-araignées-loups&#34;&gt;Les Amaurobiidae - Les araignées-loups&lt;/h1&gt;
 &lt;p&gt;Les Amaurobiidae (araignées-loups) sont nommée de la sorte en raison de leur comportement similaire à celui des loups chassant en embuscade. &lt;/p&gt;
 &lt;h1 id=&#34;principales-caractéristiques-des-amaurobiidae-&#34;&gt;Principales caractéristiques des Amaurobiidae :&lt;/h1&gt;
@@ -52,59 +52,280 @@
     </item>
     <item>
       <title>Les araignées d’Asie du Sud-Est</title>
-      <link>https://damt1974.github.io/damt1974/araneae/araneae-araign%C3%A9es-asie-sud-est/</link>
+      <link>http://localhost:1313/macrophotographie/araign%C3%A9es-asie-sud-est/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/araneae/araneae-araign%C3%A9es-asie-sud-est/</guid>
+      <guid>http://localhost:1313/macrophotographie/araign%C3%A9es-asie-sud-est/</guid>
       <description>&lt;h1 id=&#34;les-araignées-dasie-du-sud-est&#34;&gt;Les araignées d’Asie du Sud-Est&lt;/h1&gt;
 &lt;p&gt;Voici un petit aperçu photographique sur les araignées d&amp;rsquo;Asie du Sud-Est que j&amp;rsquo;ai eu la chance de rencontrer.&lt;/p&gt;
 &lt;p&gt;L&amp;rsquo;Asie du Sud-Est abrite une grande variété d&amp;rsquo;espèces d&amp;rsquo;araignées, allant des petites araignées sauteuses aux araignées-crabes, des araignées-orbes aux veuves noires. La région est réputée pour sa biodiversité exceptionnelle, ce qui en fait un terrain de jeu idéal pour les arachnologues et les amoureux de la nature.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Les araignées les plus communes de Suisse (2023)</title>
-      <link>https://damt1974.github.io/damt1974/araneae/araneae-araign%C3%A9es-communes-suisse-2023/</link>
+      <link>http://localhost:1313/macrophotographie/araign%C3%A9es-communes-suisse-2023/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/araneae/araneae-araign%C3%A9es-communes-suisse-2023/</guid>
+      <guid>http://localhost:1313/macrophotographie/araign%C3%A9es-communes-suisse-2023/</guid>
       <description>&lt;h1 id=&#34;les-araignées-les-plus-communes-de-suisse-2023&#34;&gt;Les araignées les plus communes de Suisse (2023)&lt;/h1&gt;
 &lt;h1 id=&#34;1-épeire-diadème-_araneus-diadematus_&#34;&gt;1) Épeire diadème (&lt;em&gt;Araneus diadematus&lt;/em&gt;)&lt;/h1&gt;
-&lt;p&gt;[&lt;img alt=&#34;Épeire diadème sur sa toile&#34; loading=&#34;lazy&#34; src=&#34;https://theraulaz.ch/wp-content/uploads/2023/09/p1022810-avec-accentuation-bruit-768x1024.jpg&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/araneae/araneidae/araneus_diadematus/araneus_diadematus_05.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/araneae/araneidae/araneus_diadematus/araneus_diadematus_05.jpg&#34; alt=&#34;araneus_diadematus_05.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;araneus diadematus&lt;/div&gt;
+    
+&lt;/div&gt;
+
 &lt;h1 id=&#34;2-pisaure-admirable-_pisaura-mirabilis_&#34;&gt;2) Pisaure admirable (&lt;em&gt;Pisaura mirabilis&lt;/em&gt;)&lt;/h1&gt;
 &lt;h1 id=&#34;3-pholque-phalangiste-_pholcus-phalangioides_&#34;&gt;3) Pholque phalangiste (&lt;em&gt;Pholcus phalangioides&lt;/em&gt;)&lt;/h1&gt;
-&lt;p&gt;&lt;img alt=&#34;Pholque Phalangiste - Pholcus phalangioides&#34; loading=&#34;lazy&#34; src=&#34;https://theraulaz.ch/wp-content/uploads/2023/09/p1022887-avec-accentuation-bruit-768x1024.jpg&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/araneae/pholcidae/pholcus_phalangioides/pholcus_phalangioides_01.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/araneae/pholcidae/pholcus_phalangioides/pholcus_phalangioides_01.jpg&#34; alt=&#34;pholcus_phalangioides_01.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;pholcus phalangioides&lt;/div&gt;
+    
+&lt;/div&gt;
+
 &lt;h1 id=&#34;4-misumène-variable-_misumena-vatia_&#34;&gt;4) Misumène variable (&lt;em&gt;Misumena vatia&lt;/em&gt;)&lt;/h1&gt;
-&lt;p&gt;&lt;img alt=&#34;Misumena Vatia - L&amp;rsquo;Ordre des Araignées (Araneae)&#34; loading=&#34;lazy&#34; src=&#34;https://theraulaz.ch/wp-content/uploads/2023/07/20200704_misumena-vatia-02_21-1024x768.jpg&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/araneae/thomisidae/misumena_vatia/misumena_vatia_02.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/araneae/thomisidae/misumena_vatia/misumena_vatia_02.jpg&#34; alt=&#34;misumena_vatia_02.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;misumena vatia&lt;/div&gt;
+    
+&lt;/div&gt;
+
 &lt;h1 id=&#34;5-saltique-chevronnée-_salticus-scenicus_&#34;&gt;5) Saltique chevronnée (&lt;em&gt;Salticus scenicus&lt;/em&gt;)&lt;/h1&gt;
-&lt;p&gt;[&lt;img alt=&#34;salticus scenicus - saltique chevronnée&#34; loading=&#34;lazy&#34; src=&#34;https://theraulaz.ch/wp-content/uploads/2021/12/p1066537-768x1024.jpg&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/araneae/salticidae/salticus_scenicus/salticus_scenicus_02.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/araneae/salticidae/salticus_scenicus/salticus_scenicus_02.jpg&#34; alt=&#34;salticus_scenicus_02.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;salticus scenicus&lt;/div&gt;
+    
+&lt;/div&gt;
+
 &lt;h1 id=&#34;6-épeire-des-fissures-_nuctenea-umbratica_&#34;&gt;6) Épeire des fissures (&lt;em&gt;Nuctenea umbratica&lt;/em&gt;)&lt;/h1&gt;
-&lt;p&gt;&lt;img alt=&#34;Nuctenea umbratica - Épeire des fissures - Araneoidea&#34; loading=&#34;lazy&#34; src=&#34;https://theraulaz.ch/wp-content/uploads/2022/01/96C5F804-5F84-4F8E-9B2B-294E79BFDBA1-768x1024.jpeg&#34;&gt;&lt;/p&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/araneae/araneidae/nuctenea_umbratica/nuctenea_umbratica_02.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/araneae/araneidae/nuctenea_umbratica/nuctenea_umbratica_02.jpg&#34; alt=&#34;nuctenea_umbratica_02.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;nuctenea umbratica&lt;/div&gt;
+    
+&lt;/div&gt;
+
 &lt;h1 id=&#34;7-tégénaire-des-maisons-_eratigena-atrica_&#34;&gt;7) Tégénaire des maisons (&lt;em&gt;Eratigena atrica&lt;/em&gt;)&lt;/h1&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/araneae/agelenidae/tegenaria_sp/tegenaria_domestica_01.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/araneae/agelenidae/tegenaria_sp/tegenaria_domestica_01.jpg&#34; alt=&#34;tegenaria_domestica_01.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;Tegenaria domestica&lt;/div&gt;
+    
+&lt;/div&gt;
+
 &lt;h1 id=&#34;8-thomise-enflée-_thomisus-onustus_&#34;&gt;8) Thomise enflée (&lt;em&gt;Thomisus onustus&lt;/em&gt;)&lt;/h1&gt;
 &lt;h1 id=&#34;9-tarentule-radiée-_hogna-radiata_&#34;&gt;9) Tarentule radiée (&lt;em&gt;Hogna radiata&lt;/em&gt;)&lt;/h1&gt;
 &lt;h1 id=&#34;10-argiope-frelon-_argiope-bruennichi_&#34;&gt;10) Argiope frelon (&lt;em&gt;Argiope bruennichi&lt;/em&gt;)&lt;/h1&gt;
-&lt;p&gt;[&lt;img alt=&#34;Argiope bruennichi - Argiope frelon&#34; loading=&#34;lazy&#34; src=&#34;https://theraulaz.ch/wp-content/uploads/2022/01/5EC4F9EA-71A0-48DA-A970-09ABCB3A14FE-768x1024.jpeg&#34;&gt;&lt;/p&gt;</description>
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/araneae/araneidae/argiope_bruennichi/argiope_bruennichi_03.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/araneae/araneidae/argiope_bruennichi/argiope_bruennichi_03.jpg&#34; alt=&#34;argiope_bruennichi_03.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;argiope bruennichi&lt;/div&gt;
+    
+&lt;/div&gt;
+
+&lt;h1 id=&#34;11-thomise-globuleuse-ou-napoléon-_synema-globosum_&#34;&gt;11) Thomise globuleuse ou napoléon (&lt;em&gt;Synema globosum&lt;/em&gt;)&lt;/h1&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/araneae/thomisidae/synema_globosum/synema_globosum_02.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/araneae/thomisidae/synema_globosum/synema_globosum_02.jpg&#34; alt=&#34;synema_globosum_02.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;synema globosum&lt;/div&gt;
+    
+&lt;/div&gt;
+
+&lt;h1 id=&#34;12-mangore-petite-bouteille-_mangora-acalypha&#34;&gt;12) Mangore petite-bouteille (_Mangora acalypha)&lt;/h1&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/araneae/araneidae/mangora_acalypha/mangora_acalypha_02.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/araneae/araneidae/mangora_acalypha/mangora_acalypha_02.jpg&#34; alt=&#34;mangora_acalypha_02.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;mangora acalypha&lt;/div&gt;
+    
+&lt;/div&gt;
+
+&lt;h1 id=&#34;13-zoropse-à-patte-épineuse_zoropsis-spinimana_&#34;&gt;13) Zoropse à patte épineuse (&lt;em&gt;Zoropsis spinimana&lt;/em&gt;)&lt;/h1&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/araneae/zoropsidae/zoropsis_spinamana/zoropsis_spinamana_01.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/araneae/zoropsidae/zoropsis_spinamana/zoropsis_spinamana_01.jpg&#34; alt=&#34;zoropsis_spinamana_01.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;zoropsis spinamana&lt;/div&gt;
+    
+&lt;/div&gt;
+
+&lt;h1 id=&#34;14-thomise-à-trois-taches-_ebrechtella-tricuspidata_&#34;&gt;14) Thomise à trois taches (&lt;em&gt;Ebrechtella tricuspidata&lt;/em&gt;)&lt;/h1&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/araneae/thomisidae/ebrechtella_tricuspidata/ebrechtella_tricuspidata_03.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/araneae/thomisidae/ebrechtella_tricuspidata/ebrechtella_tricuspidata_03.jpg&#34; alt=&#34;ebrechtella_tricuspidata_03.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;ebrechtella tricuspidata&lt;/div&gt;
+    
+&lt;/div&gt;
+
+&lt;h1 id=&#34;15-épeire-à-quatre-points-_araneus-quadratus_&#34;&gt;15) Épeire à quatre points (&lt;em&gt;Araneus quadratus&lt;/em&gt;)&lt;/h1&gt;
+&lt;h1 id=&#34;16-épeire-concombre-_araniella-cucurbitina_&#34;&gt;16) Épeire concombre (&lt;em&gt;Araniella cucurbitina&lt;/em&gt;)&lt;/h1&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/araneae/araneidae/araniella_cucurbitina/araniella_cucurbitina_02.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/araneae/araneidae/araniella_cucurbitina/araniella_cucurbitina_02.jpg&#34; alt=&#34;araniella_cucurbitina_02.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;Araniella cucurbitina&lt;/div&gt;
+    
+&lt;/div&gt;
+
+&lt;h1 id=&#34;17-grande-saltique-_marpissa-muscosa_&#34;&gt;17) Grande saltique (&lt;em&gt;Marpissa muscosa&lt;/em&gt;)&lt;/h1&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/araneae/salticidae/marpissa_muscosa/marpissa_muscosa_12.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/araneae/salticidae/marpissa_muscosa/marpissa_muscosa_12.jpg&#34; alt=&#34;marpissa_muscosa_12.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;marpissa muscosa&lt;/div&gt;
+    
+&lt;/div&gt;
+
+&lt;h1 id=&#34;18-dolomède-des-marais-ou-dolomède-bordé-_dolomedes-fimbriatus_&#34;&gt;18) Dolomède des marais ou Dolomède bordé (&lt;em&gt;Dolomedes fimbriatus&lt;/em&gt;)&lt;/h1&gt;
+&lt;h1 id=&#34;19-malmignatte-des-maisons-_steatoda-triangulosa_&#34;&gt;19) Malmignatte des maisons (&lt;em&gt;Steatoda triangulosa&lt;/em&gt;)&lt;/h1&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/araneae/theridiidae/steatoda_triangulosa/steatoda_triangulosa_02.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/araneae/theridiidae/steatoda_triangulosa/steatoda_triangulosa_02.jpg&#34; alt=&#34;steatoda_triangulosa_02.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;steatoda triangulosa&lt;/div&gt;
+    
+&lt;/div&gt;
+
+&lt;h1 id=&#34;20-épeire-des-fenêtres-_zygiella-x-notata_&#34;&gt;20) Épeire des fenêtres (&lt;em&gt;Zygiella x-notata&lt;/em&gt;)&lt;/h1&gt;
+&lt;h1 id=&#34;21-veuve-des-villes-_steatoda-grossa_&#34;&gt;21) Veuve des villes (&lt;em&gt;Steatoda grossa&lt;/em&gt;)&lt;/h1&gt;
+&lt;h1 id=&#34;22-fausse-veuve-noire-_steatoda-nobilis_&#34;&gt;22) Fausse veuve noire (&lt;em&gt;Steatoda nobilis&lt;/em&gt;)&lt;/h1&gt;
+&lt;h1 id=&#34;23-faucheux-urnigère-_phalangium-opilio_&#34;&gt;23) Faucheux urnigère (&lt;em&gt;Phalangium opilio&lt;/em&gt;)&lt;/h1&gt;
+&lt;p&gt;Références:
+&lt;a href=&#34;https://www.salamandre.org/article/les-araignees-les-plus-communes-en-france-et-en-suisse/&#34;&gt;https://www.salamandre.org/article/les-araignees-les-plus-communes-en-france-et-en-suisse/&lt;/a&gt;
+&lt;a href=&#34;https://birdwatchinghq.com/spiders-of-switzerland/&#34;&gt;https://birdwatchinghq.com/spiders-of-switzerland/&lt;/a&gt;
+&lt;a href=&#34;https://www.pandaclub.ch/fr/les-araignees-en-suisse/&#34;&gt;https://www.pandaclub.ch/fr/les-araignees-en-suisse/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Les Araneidae - Les araignées orbiculaires</title>
-      <link>https://damt1974.github.io/damt1974/araneae/araneae-araneidae/</link>
+      <link>http://localhost:1313/arthropodes/araignees/araneidae/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/araneae/araneae-araneidae/</guid>
+      <guid>http://localhost:1313/arthropodes/araignees/araneidae/</guid>
       <description>&lt;h1 id=&#34;les-araneidae---les-araignées-orbiculaires&#34;&gt;Les Araneidae - Les araignées orbiculaires&lt;/h1&gt;
 &lt;p&gt;Les Araneidae - Les araignées orbiculaires sont une famille d&amp;rsquo;araignée qui comporte 178 genres. Ce sont des araignées avec des pattes épineuses qui construisent des toiles symétriques, et chassent donc par captation. Elles portent souvent des dessins sur leur abdomen et ont des couleurs assez différentes.&lt;/p&gt;
 &lt;p&gt;Elles construisent des toiles en forme de cercle ou d&amp;rsquo;orbite pour capturer leurs proies. Ces toiles sont souvent complexes et bien conçues, avec des fils radiaux et spirales qui forment une structure circulaire. &lt;/p&gt;</description>
     </item>
     <item>
       <title>Les Lycosidae - Les araignées-loups</title>
-      <link>https://damt1974.github.io/damt1974/araneae/araneae-lycosidae/</link>
+      <link>http://localhost:1313/arthropodes/araignees/lycosidae/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/araneae/araneae-lycosidae/</guid>
+      <guid>http://localhost:1313/arthropodes/araignees/lycosidae/</guid>
       <description>&lt;h1 id=&#34;les-lycosidae---les-araignées-loups&#34;&gt;Les Lycosidae - Les araignées-loups&lt;/h1&gt;
 &lt;p&gt;Les Lycosidae - Les araignées-loups, forment une famille d&amp;rsquo;araignées de l&amp;rsquo;ordre des Araneae. Elles sont répandues dans le monde entier et comprennent de nombreuses espèces différentes.&lt;/p&gt;
 &lt;p&gt;Les araignées-loups tirent leur nom de leur comportement de chasse, qui est souvent similaire à celui des loups. Elles sont des prédateurs actifs et rapides, se déplaçant rapidement pour capturer leurs proies. Contrairement à certaines araignées qui tissent des toiles pour piéger leurs proies, les araignées-loups chassent en traquant et en poursuivant activement leur nourriture.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Les Nephilidae - Les Néphiles</title>
-      <link>https://damt1974.github.io/damt1974/araneae/araneae-nephilidae/</link>
+      <link>http://localhost:1313/arthropodes/araignees/nephilidae/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/araneae/araneae-nephilidae/</guid>
+      <guid>http://localhost:1313/arthropodes/araignees/nephilidae/</guid>
       <description>&lt;h1 id=&#34;les-nephilidae---les-néphiles&#34;&gt;Les Nephilidae - Les Néphiles&lt;/h1&gt;
 &lt;p&gt;Les Nephilidae- Les Néphiles ou &amp;ldquo;golden silk orb-weavers&amp;rdquo; en anglais, sont une famille d&amp;rsquo;araignées aranéomorphes que l&amp;rsquo;on trouve dans les régions tropicales et subtropicales. &lt;/p&gt;
 &lt;p&gt;Voici quelques caractéristiques importantes des Nephilidae (Néphiles) :&lt;/p&gt;
@@ -117,41 +338,40 @@
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;les-genres-que-jai-croisé&#34;&gt;Les genres que j&amp;rsquo;ai croisé&lt;/h1&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!col]&lt;/p&gt;</description>
+&lt;p&gt;Nephilidae&lt;/p&gt;</description>
     </item>
     <item>
       <title>Les Philodromidae - Les araignées-crabes</title>
-      <link>https://damt1974.github.io/damt1974/araneae/araneae-philodromidae/</link>
+      <link>http://localhost:1313/arthropodes/araignees/philodromidae/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/araneae/araneae-philodromidae/</guid>
+      <guid>http://localhost:1313/arthropodes/araignees/philodromidae/</guid>
       <description>&lt;h1 id=&#34;les-philodromidae---les-araignées-crabes&#34;&gt;Les Philodromidae - Les araignées-crabes&lt;/h1&gt;
 &lt;p&gt;Les Philodromidae - Les araignées-crabes sont caractérisées par leurs longues pattes antérieures, leur corps plat et leur marche latérale, similaire à celle des crabes. Elles sont principalement prédatrices et chassent activement leurs proies plutôt que de tisser des toiles. &lt;/p&gt;
 &lt;p&gt;Les Philodromidae - Les araignées-crabes sont répandues dans le monde entier et on peut les trouver dans une grande diversité d&amp;rsquo;habitats, des forêts aux zones urbaines. &lt;/p&gt;</description>
     </item>
     <item>
       <title>Les Pholcidae - Les araignées de cave</title>
-      <link>https://damt1974.github.io/damt1974/araneae/araneae-pholcidae/</link>
+      <link>http://localhost:1313/arthropodes/araignees/pholcidae/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/araneae/araneae-pholcidae/</guid>
+      <guid>http://localhost:1313/arthropodes/araignees/pholcidae/</guid>
       <description>&lt;h1 id=&#34;les-pholcidae---les-araignées-de-cave&#34;&gt;Les Pholcidae - Les araignées de cave&lt;/h1&gt;
 &lt;p&gt;Les Pholcidae sont reconnaissables par leurs longues pattes fines et leur corps généralement petit et oval. Leur couleur peut varier du beige au gris ou au brun.&lt;/p&gt;
 &lt;p&gt;Ces araignées sont connues pour leur comportement particulier de secouer rapidement leurs toiles lorsqu&amp;rsquo;elles se sentent menacées. Cela peut être interprété comme une tentative de dissuasion des prédateurs ou comme un moyen de capturer de petites proies qui volent dans leur toile.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Les Salticidae - Les araignées sauteuses</title>
-      <link>https://damt1974.github.io/damt1974/araneae/araneae-salticidae/</link>
+      <link>http://localhost:1313/arthropodes/araignees/salticidae/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/araneae/araneae-salticidae/</guid>
+      <guid>http://localhost:1313/arthropodes/araignees/salticidae/</guid>
       <description>&lt;h1 id=&#34;les-salticidae---les-araignées-sauteuses&#34;&gt;Les Salticidae - Les araignées sauteuses&lt;/h1&gt;
 &lt;p&gt;Les Salticidae - Les araignées sauteuses ou saltiques, forment une famille fascinante d&amp;rsquo;araignées qui se distinguent par leur comportement de saut actif et leur vision exceptionnelle. On en dénombrait 500 genres (2021).&lt;/p&gt;
 &lt;p&gt;Elles ont généralement un corps compact, des pattes robustes et de grands yeux bien développés à l&amp;rsquo;avant de leur tête. Leurs couleurs et motifs varient, mais beaucoup ont des couleurs vives et des motifs distincts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Les Scytodidae - Les araignées cracheuses</title>
-      <link>https://damt1974.github.io/damt1974/araneae/araneae-scytodidae/</link>
+      <link>http://localhost:1313/arthropodes/araignees/scytodidae/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/araneae/araneae-scytodidae/</guid>
+      <guid>http://localhost:1313/arthropodes/araignees/scytodidae/</guid>
       <description>&lt;h1 id=&#34;les-scytodidae---les-araignées-cracheuses&#34;&gt;Les Scytodidae - Les araignées cracheuses&lt;/h1&gt;
 &lt;p&gt;Les Scytodidae - Les araignées cracheuses ou araignées à glandes à soie, forment une famille d&amp;rsquo;araignées avec des comportements de chasse et de défense uniques. Voici un résumé de leurs principales caractéristiques :&lt;/p&gt;
 &lt;ol&gt;
@@ -163,9 +383,9 @@
     </item>
     <item>
       <title>Les Theridiidae - Les araignées napoléons</title>
-      <link>https://damt1974.github.io/damt1974/araneae/araneae-theridiidae/</link>
+      <link>http://localhost:1313/arthropodes/araignees/theridiidae/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/araneae/araneae-theridiidae/</guid>
+      <guid>http://localhost:1313/arthropodes/araignees/theridiidae/</guid>
       <description>&lt;h1 id=&#34;les-theridiidae---les-araignées-napoléons&#34;&gt;Les Theridiidae - Les araignées napoléons&lt;/h1&gt;
 &lt;p&gt;Les Theridiidae - Les araignées napoléons, sont une famille d&amp;rsquo;araignées appartenant à l&amp;rsquo;ordre des Araneae. Ces araignées sont connues pour leur petite taille, leurs toiles caractéristiques et leurs comportements variés. Voici un résumé des principales caractéristiques des Therididae :&lt;/p&gt;
 &lt;ol&gt;
@@ -179,9 +399,9 @@
     </item>
     <item>
       <title>Les Thomisidae - Les araignées-crabes</title>
-      <link>https://damt1974.github.io/damt1974/araneae/araneae-thomisidae/</link>
+      <link>http://localhost:1313/arthropodes/araignees/thomisidae/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/araneae/araneae-thomisidae/</guid>
+      <guid>http://localhost:1313/arthropodes/araignees/thomisidae/</guid>
       <description>&lt;h1 id=&#34;les-thomisidae---les-araignées-crabes&#34;&gt;Les Thomisidae - Les araignées-crabes&lt;/h1&gt;
 &lt;p&gt;Les Thomisidae - Les araignées-crabes ou famille des thomisides regroupe les araignées dites araignées-crabes. Elles sont nommées ainsi par leur aspect évoquant un crabe avec deux paires de pattes avant allongées et orientées sur les côtés, et deux paires de pattes arrière plus petites. Elles chassent directement en attrapant leur proie avec leurs pattes!&lt;/p&gt;
 &lt;p&gt;En 2021, on en dénombrait 171 genres (&lt;a href=&#34;https://wsc.nmbe.ch/genlist/103&#34;&gt;World Spider Catalog&lt;/a&gt;).&lt;/p&gt;
@@ -189,9 +409,9 @@
     </item>
     <item>
       <title>Les Zoropsidae - Les araignées zoropses</title>
-      <link>https://damt1974.github.io/damt1974/araneae/araneae-zoropsidae/</link>
+      <link>http://localhost:1313/arthropodes/araignees/zoropsidae/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/araneae/araneae-zoropsidae/</guid>
+      <guid>http://localhost:1313/arthropodes/araignees/zoropsidae/</guid>
       <description>&lt;h1 id=&#34;les-zoropsidae---les-araignées-zoropses&#34;&gt;Les Zoropsidae - Les araignées zoropses&lt;/h1&gt;
 &lt;p&gt;Les Zoropsidae - Les araignées zoropses sont des araginées errantes, souvent de grande taille. La première fois que j’en ai vu une, j’ai été particulièrement surpris. Elles sont grandes. J’étais devant une Zoropsis spinamana. Ce qui m’a le plus étonné, c’est le fait qu’elles ne sont pas agressives, contrairement à ce que pourrait faire penser leur aspect!&lt;/p&gt;
 &lt;p&gt;Voici un résumé de leurs principales caractéristiques :&lt;/p&gt;</description>

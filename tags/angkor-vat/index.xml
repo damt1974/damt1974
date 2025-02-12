@@ -2,31 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Angkor Vat on theraulaz.ch</title>
-    <link>https://damt1974.github.io/damt1974/tags/angkor-vat/</link>
+    <link>http://localhost:1313/tags/angkor-vat/</link>
     <description>Recent content in Angkor Vat on theraulaz.ch</description>
     <image>
       <title>theraulaz.ch</title>
-      <url>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://damt1974.github.io/damt1974/tags/angkor-vat/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/angkor-vat/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Angkor Vat</title>
-      <link>https://damt1974.github.io/damt1974/cambodge/cambodge-angkor-vat/</link>
+      <link>http://localhost:1313/asie/cambodge/siem-reap/angkor-vat/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/cambodge/cambodge-angkor-vat/</guid>
+      <guid>http://localhost:1313/asie/cambodge/siem-reap/angkor-vat/</guid>
       <description>&lt;h1 id=&#34;angkor-vat---បរសទអងគរវតត&#34;&gt;Angkor Vat - ប្រាសាទអង្គរវត្ត&lt;/h1&gt;
 &lt;p&gt;Le temple d&amp;rsquo;Angkor Vat est le temple iconique du site. On confond souvent Angkor, le site archéologique, et Angkor Vat, le temple.&lt;/p&gt;
 &lt;p&gt;Ce temple, initialement dédié à Vishnu, fut construit au début du XIIème siècle par le roi khmer Suryavarman II, puis progressivement dévoué au culte bouddhiste.&lt;/p&gt;
-&lt;h2 id=&#34;particularité&#34;&gt;Particularité:&lt;/h2&gt;
+&lt;div class=&#34;info-box&#34;&gt;
+    &lt;h3 id=&#34;particularité&#34;&gt;Particularité:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Plus grand édifice religieux au monde&lt;/li&gt;
 &lt;li&gt;Classé au patrimoine mondial de l&amp;rsquo;UNESCO&lt;/li&gt;
 &lt;li&gt;Vue très photogénique, surtout depuis le bassin ouest, le temple se reflétant sur l&amp;rsquo;eau&lt;/li&gt;
 &lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;hr&gt;
 
 
 
@@ -34,7 +38,7 @@
 
 
 &lt;div style=&#34;background-color: #696969; padding: 15px; text-align: center; max-width: 600px; margin: auto; border-radius: 8px;&#34;&gt;
-    &lt;img src=&#34;https://damt1974.github.io/damt1974/damt1974/images/AngkorVatCarte.png&#34; alt=&#34;AngkorVatCarte.png&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto;&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/images/AngkorVatCarte.png&#34; alt=&#34;AngkorVatCarte.png&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto;&#34;&gt;
     
         &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px;&#34;&gt;Carte d&amp;#39;Angkor Vat&lt;/div&gt;
     

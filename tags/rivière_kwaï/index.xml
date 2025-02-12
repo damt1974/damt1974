@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rivière_Kwaï on theraulaz.ch</title>
+    <link>http://localhost:1313/tags/rivi%C3%A8re_kwa%C3%AF/</link>
+    <description>Recent content in Rivière_Kwaï on theraulaz.ch</description>
+    <image>
+      <title>theraulaz.ch</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rivi%C3%A8re_kwa%C3%AF/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rivière Kwaï</title>
+      <link>http://localhost:1313/asie/tha%C3%AFlande/riviere_kwai/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/asie/tha%C3%AFlande/riviere_kwai/</guid>
+      <description>&lt;h1 id=&#34;la-rivière-kwaï---แควนอย&#34;&gt;La Rivière Kwaï - แควน้อย&lt;/h1&gt;
+&lt;p&gt;La rivière Kwaï, son pont et sa voie de chemin de fer!&lt;/p&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/cambodge/Bayon01.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/cambodge/Bayon01.jpg&#34; alt=&#34;Bayon01.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;xxxxxxx&lt;/div&gt;
+    
+&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

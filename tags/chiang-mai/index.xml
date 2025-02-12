@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chiang Mai on theraulaz.ch</title>
-    <link>https://damt1974.github.io/damt1974/tags/chiang-mai/</link>
+    <link>http://localhost:1313/tags/chiang-mai/</link>
     <description>Recent content in Chiang Mai on theraulaz.ch</description>
     <image>
       <title>theraulaz.ch</title>
-      <url>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://damt1974.github.io/damt1974/tags/chiang-mai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/chiang-mai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chiang Mai</title>
-      <link>https://damt1974.github.io/damt1974/tha%C3%AFlande/tha%C3%AFlande-chiang-mai/</link>
+      <link>http://localhost:1313/asie/tha%C3%AFlande/chiang-mai/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/tha%C3%AFlande/tha%C3%AFlande-chiang-mai/</guid>
+      <guid>http://localhost:1313/asie/tha%C3%AFlande/chiang-mai/</guid>
       <description>&lt;h1 id=&#34;chiang-mai---เชยงใหม&#34;&gt;Chiang Mai - เชียงใหม่&lt;/h1&gt;
 &lt;p&gt;Avant de commence, je tiens particulièrement à remercier notre guide &lt;strong&gt;&lt;em&gt;Dolly Bacque Duchanee&lt;/em&gt;&lt;/strong&gt; qui nous a &amp;ldquo;supporté&amp;rdquo; durant tout notre séjour dans cette magnifique ville. Super disponible, parlant français et tout simplement géniale! Prendre un guide en Thaïlande est un must! Premièrement, vous aurez accès à des activités ou visites auxquelles vous n&amp;rsquo;auriez pas pensé. Deuxièmement, le guide est votre traducteur! Ce qui donne accès à la communication facilitée avec les Thaïs! Top!&lt;/p&gt;</description>
     </item>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Lopburi on theraulaz.ch</title>
-    <link>https://damt1974.github.io/damt1974/tags/lopburi/</link>
+    <link>http://localhost:1313/tags/lopburi/</link>
     <description>Recent content in Lopburi on theraulaz.ch</description>
     <image>
       <title>theraulaz.ch</title>
-      <url>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://damt1974.github.io/damt1974/tags/lopburi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/lopburi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lopburi</title>
-      <link>https://damt1974.github.io/damt1974/tha%C3%AFlande/tha%C3%AFlande-lopburi/</link>
+      <link>http://localhost:1313/asie/tha%C3%AFlande/lopburi/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/tha%C3%AFlande/tha%C3%AFlande-lopburi/</guid>
+      <guid>http://localhost:1313/asie/tha%C3%AFlande/lopburi/</guid>
       <description>Lopburi est une ville du centre de la Thaïlande, capitale de la province de Lopburi. Elle est située sur le cours de la Lopburi, un des bras de la Chao Phraya. Elle fut la seconde capitale du Royaume d&amp;#39;Ayutthaya. Il y a deux choses importantes à voir à Lopburi. La première, ce sont les macaques crabiers qui ont envahit le centre de la ville! Ils habitent principalement au Phra Prang Sam Yod, un vieux temple, et en face dans un cinéma abandonné. La deuxième est le temple lui-même.
 </description>
     </item>

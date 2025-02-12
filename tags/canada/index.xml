@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Canada on theraulaz.ch</title>
-    <link>https://damt1974.github.io/damt1974/tags/canada/</link>
+    <link>http://localhost:1313/tags/canada/</link>
     <description>Recent content in Canada on theraulaz.ch</description>
     <image>
       <title>theraulaz.ch</title>
-      <url>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://damt1974.github.io/damt1974/tags/canada/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/canada/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le Québec</title>
-      <link>https://damt1974.github.io/damt1974/voyages/qu%C3%A9bec/</link>
+      <link>http://localhost:1313/amerique/canada/qu%C3%A9bec/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/voyages/qu%C3%A9bec/</guid>
+      <guid>http://localhost:1313/amerique/canada/qu%C3%A9bec/</guid>
       <description>Le Québec
 </description>
     </item>

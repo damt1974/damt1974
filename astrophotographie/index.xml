@@ -2,58 +2,149 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Astrophotographies on theraulaz.ch</title>
-    <link>https://damt1974.github.io/damt1974/astrophotographie/</link>
+    <link>http://localhost:1313/astrophotographie/</link>
     <description>Recent content in Astrophotographies on theraulaz.ch</description>
     <image>
       <title>theraulaz.ch</title>
-      <url>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>fr</language>
     <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://damt1974.github.io/damt1974/astrophotographie/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/astrophotographie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Astrophotographie</title>
-      <link>https://damt1974.github.io/damt1974/astrophotographie/astrophotographie/</link>
+      <link>http://localhost:1313/astrophotographie/astrophotographie/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/astrophotographie/astrophotographie/</guid>
+      <guid>http://localhost:1313/astrophotographie/astrophotographie/</guid>
       <description>&lt;h1 id=&#34;lastrophotographie&#34;&gt;L&amp;rsquo;Astrophotographie&lt;/h1&gt;
 &lt;p&gt;L&amp;rsquo;astrophotographie et la photographie du ciel transcendent les frontières terrestres pour capturer l&amp;rsquo;éclat mystérieux des étoiles, des galaxies lointaines et des phénomènes célestes.&lt;/p&gt;
 &lt;p&gt;À travers des nuits d&amp;rsquo;observation patiente et de techniques innovantes, l&amp;rsquo;astrophotographe donne vie à la voie lactée qui s&amp;rsquo;étire, aux nébuleuses chatoyantes et aux planètes envoûtantes. &lt;/p&gt;
 &lt;p&gt;Chaque image raconte une histoire d&amp;rsquo;exploration et de découverte, nous rappelant notre place au sein de cette vaste toile cosmique. L&amp;rsquo;astrophotographie et la photographie du ciel est un voyage captivant vers l&amp;rsquo;inconnu, où chaque cliché est un témoignage de notre quête infinie pour comprendre les secrets de l&amp;rsquo;univers.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Le Lunaire</title>
-      <link>https://damt1974.github.io/damt1974/astrophotographie/astrophotographie-lunaire/</link>
+      <title>La Foudre</title>
+      <link>http://localhost:1313/astrophotographie/foudre/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/astrophotographie/astrophotographie-lunaire/</guid>
+      <guid>http://localhost:1313/astrophotographie/foudre/</guid>
+      <description>&lt;h1 id=&#34;la-foudre&#34;&gt;La Foudre&lt;/h1&gt;
+&lt;h1 id=&#34;appenzell-suisse&#34;&gt;Appenzell, Suisse&lt;/h1&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/astrophotographie/foudre/foudre_01.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/astrophotographie/foudre/foudre_01.jpg&#34; alt=&#34;foudre_01.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;xxx&lt;/div&gt;
+    
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/astrophotographie/foudre/foudre_02.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/astrophotographie/foudre/foudre_02.jpg&#34; alt=&#34;foudre_02.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;xxx&lt;/div&gt;
+    
+&lt;/div&gt;
+
+&lt;h1 id=&#34;veyrier-suisse&#34;&gt;Veyrier, Suisse&lt;/h1&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/astrophotographie/foudre/foudre_03.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/astrophotographie/foudre/foudre_03.jpg&#34; alt=&#34;foudre_03.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;xxx&lt;/div&gt;
+    
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/astrophotographie/foudre/foudre_04.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/astrophotographie/foudre/foudre_04.jpg&#34; alt=&#34;foudre_04.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;xxx&lt;/div&gt;
+    
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/astrophotographie/foudre/foudre_05.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/astrophotographie/foudre/foudre_05.jpg&#34; alt=&#34;foudre_05.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;xxx&lt;/div&gt;
+    
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/astrophotographie/foudre/foudre_06.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/astrophotographie/foudre/foudre_06.jpg&#34; alt=&#34;foudre_06.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;xxx&lt;/div&gt;
+    
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Le Lunaire</title>
+      <link>http://localhost:1313/astrophotographie/lunaire/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/astrophotographie/lunaire/</guid>
       <description>&lt;h1 id=&#34;le-lunaire&#34;&gt;Le Lunaire&lt;/h1&gt;
 &lt;p&gt;La photographie lunaire est l&amp;rsquo;art et la science de capturer des images de la Lune à l&amp;rsquo;aide d&amp;rsquo;appareils photo ou de caméras spécialement conçus. C&amp;rsquo;est une discipline qui a fasciné les astronomes, les photographes et le grand public depuis l&amp;rsquo;invention de la photographie.&lt;/p&gt;
 &lt;h1 id=&#34;la-photographie-lunaire&#34;&gt;La photographie Lunaire&lt;/h1&gt;
 &lt;p&gt;La photographie lunaire remonte aux premières expériences photographiques du XIXe siècle. En 1840, John William Draper réalisa l&amp;rsquo;une des premières photographies de la Lune. Au fil des décennies, les techniques photographiques ont évolué, permettant des images de plus en plus détaillées et précises de la surface de la lune.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Le Planétaire</title>
-      <link>https://damt1974.github.io/damt1974/astrophotographie/astrophotographie-plan%C3%A9taire/</link>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/astrophotographie/astrophotographie-plan%C3%A9taire/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Les Comètes</title>
-      <link>https://damt1974.github.io/damt1974/astrophotographie/astrophotographie-com%C3%A8tes/</link>
+      <link>http://localhost:1313/astrophotographie/cometes/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/astrophotographie/astrophotographie-com%C3%A8tes/</guid>
+      <guid>http://localhost:1313/astrophotographie/cometes/</guid>
       <description>&lt;p&gt;Les comètes sont des objets célestes fascinants et mystérieux qui parcourent le système solaire. Voici un résumé des principales caractéristiques et des aspects importants des comètes :&lt;/p&gt;
 &lt;h1 id=&#34;composition&#34;&gt;Composition&lt;/h1&gt;
 &lt;p&gt;Les comètes sont principalement composées de glace, de poussière et de roches. Le noyau d&amp;rsquo;une comète est un amas solide de ces matériaux, souvent comparé à un &amp;ldquo;bonhomme de neige sale&amp;rdquo;. À mesure qu&amp;rsquo;une comète s&amp;rsquo;approche du Soleil, la chaleur fait fondre les glaces, libérant des gaz et des poussières qui forment la chevelure et la queue caractéristiques de la comète.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Les Conjonctions</title>
-      <link>https://damt1974.github.io/damt1974/astrophotographie/astrophotographie-conjonctions/</link>
+      <link>http://localhost:1313/astrophotographie/conjonctions/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/astrophotographie/astrophotographie-conjonctions/</guid>
+      <guid>http://localhost:1313/astrophotographie/conjonctions/</guid>
       <description>&lt;h1 id=&#34;les-conjonctions&#34;&gt;Les Conjonctions&lt;/h1&gt;
 &lt;p&gt;Les conjonctions astronomiques se produisent lorsque deux ou plusieurs objets célestes semblent se rapprocher considérablement dans le ciel lorsque vus depuis la Terre. Ces événements peuvent impliquer des planètes, des étoiles, des lunes, des comètes ou d&amp;rsquo;autres corps célestes. Les conjonctions peuvent être classées en plusieurs catégories en fonction de la proximité apparente des objets et de leur position dans le ciel.&lt;/p&gt;
 &lt;h2 id=&#34;conjonction-lunaire&#34;&gt;&lt;strong&gt;Conjonction lunaire:&lt;/strong&gt;&lt;/h2&gt;

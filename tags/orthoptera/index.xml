@@ -2,65 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Orthoptera on theraulaz.ch</title>
-    <link>https://damt1974.github.io/damt1974/tags/orthoptera/</link>
+    <link>http://localhost:1313/tags/orthoptera/</link>
     <description>Recent content in Orthoptera on theraulaz.ch</description>
     <image>
       <title>theraulaz.ch</title>
-      <url>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://damt1974.github.io/damt1974/tags/orthoptera/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/orthoptera/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acrididae</title>
-      <link>https://damt1974.github.io/damt1974/orthoptera/orthoptera-acrididae/</link>
+      <link>http://localhost:1313/arthropodes/orthopteres/acrididae/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/orthoptera/orthoptera-acrididae/</guid>
+      <guid>http://localhost:1313/arthropodes/orthopteres/acrididae/</guid>
       <description>&lt;p&gt;ACRIDIDAE – LES ACRIDIENS&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/caelifera-les-caeliferes-les-criquets/acrididae-les-acridiens/#genre-ceracris&#34;&gt;==Genre Ceracris==&lt;/a&gt;&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/caelifera-les-caeliferes-les-criquets/acrididae-les-acridiens/#ceracris-fasciata&#34;&gt;==Ceracris fasciata==&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/caelifera-les-caeliferes-les-criquets/acrididae-les-acridiens/#genre-chorthippus&#34;&gt;==Genre Chorthippus==&lt;/a&gt;&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/caelifera-les-caeliferes-les-criquets/acrididae-les-acridiens/#chorthippus-brunneus&#34;&gt;==Chorthippus brunneus==&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/caelifera-les-caeliferes-les-criquets/acrididae-les-acridiens/#genre-miramella&#34;&gt;==Genre Miramella==&lt;/a&gt;&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/caelifera-les-caeliferes-les-criquets/acrididae-les-acridiens/#miramella-alpina&#34;&gt;==Miramella alpina==&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/caelifera-les-caeliferes-les-criquets/acrididae-les-acridiens/#genre-oedipoda&#34;&gt;==Genre Oedipoda==&lt;/a&gt;&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/caelifera-les-caeliferes-les-criquets/acrididae-les-acridiens/#oedipoda-caerulescens&#34;&gt;==Oedipoda caerulescens==&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/caelifera-les-caeliferes-les-criquets/acrididae-les-acridiens/#oedipoda-germanica&#34;&gt;==Oedipoda germanica==&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/caelifera-les-caeliferes-les-criquets/acrididae-les-acridiens/#genre-podisma&#34;&gt;==Genre Podisma==&lt;/a&gt;&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/caelifera-les-caeliferes-les-criquets/acrididae-les-acridiens/#podisma-pedestris&#34;&gt;==Podisma pedestris==&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/caelifera-les-caeliferes-les-criquets/acrididae-les-acridiens/#genre-pseudochorthippus&#34;&gt;==Genre Pseudochorthippus==&lt;/a&gt;&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/caelifera-les-caeliferes-les-criquets/acrididae-les-acridiens/#pseudochorthippus-parallelus&#34;&gt;==Pseudochorthippus parallelus==&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/caelifera-les-caeliferes-les-criquets/acrididae-les-acridiens/#genre-trilophidia&#34;&gt;==Genre Trilophidia==&lt;/a&gt;&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/caelifera-les-caeliferes-les-criquets/acrididae-les-acridiens/#trilophidia-annulata&#34;&gt;==Trilophidia annulata==&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;genre-ceracris&#34;&gt;&lt;strong&gt;==Genre Ceracris==&lt;/strong&gt;&lt;/h2&gt;
-&lt;h2 id=&#34;_ceracris-fasciata_&#34;&gt;&lt;strong&gt;&lt;em&gt;==Ceracris fasciata==&lt;/em&gt;&lt;/strong&gt;&lt;/h2&gt;
-&lt;table&gt;
+&lt;h2 id=&#34;genre-ceracris&#34;&gt;Genre Ceracris&lt;/h2&gt;
+&lt;h2 id=&#34;ceracris-fasciata&#34;&gt;Ceracris fasciata&lt;/h2&gt;
+&lt;div class=&#34;fiche-box&#34;&gt;
+    &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th&gt;&lt;/th&gt;
@@ -134,30 +97,714 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://i0.wp.com/theraulaz.ch/wp-content/uploads/2024/01/ceracris_fasciata.jpg?resize=740%2C987&amp;ssl=1&#34;&gt;&lt;/p&gt;</description>
+
+  &lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;genre-chorthippus&#34;&gt;Genre Chorthippus&lt;/h2&gt;
+&lt;h2 id=&#34;chorthippus-brunneus&#34;&gt;Chorthippus brunneus&lt;/h2&gt;
+&lt;div class=&#34;fiche-box&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ordre&lt;/td&gt;
+          &lt;td&gt;Orthoptera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Famille Orthoptera&lt;/td&gt;
+          &lt;td&gt;Acrididae&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Genre&lt;/td&gt;
+          &lt;td&gt;Chorthippus&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Espèce&lt;/td&gt;
+          &lt;td&gt;brunneus&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Nom commun&lt;/td&gt;
+          &lt;td&gt;Criquet Duettiste&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Identificateur&lt;/td&gt;
+          &lt;td&gt;Thunberg&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Année d’identification&lt;/td&gt;
+          &lt;td&gt;1815&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Catégorie UICN (2001-2003)&lt;/td&gt;
+          &lt;td&gt;LC (non menacé)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Couleur&lt;/td&gt;
+          &lt;td&gt;gris, vert, brun pourpre ou noir&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle min&lt;/td&gt;
+          &lt;td&gt;14&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle max&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle min&lt;/td&gt;
+          &lt;td&gt;19&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle max&lt;/td&gt;
+          &lt;td&gt;25&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période début&lt;/td&gt;
+          &lt;td&gt;mai&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période fin&lt;/td&gt;
+          &lt;td&gt;novembre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Zone&lt;/td&gt;
+          &lt;td&gt;Europe, Asie&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/orthoptera/acrididae/chorthippus_sp/chorthippus_brunneus_01.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/orthoptera/acrididae/chorthippus_sp/chorthippus_brunneus_01.jpg&#34; alt=&#34;chorthippus_brunneus_01.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;xxxx&lt;/div&gt;
+    
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;genre-miramella&#34;&gt;Genre Miramella&lt;/h2&gt;
+&lt;h2 id=&#34;miramella-alpina&#34;&gt;Miramella alpina&lt;/h2&gt;
+&lt;div class=&#34;fiche-box&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ordre&lt;/td&gt;
+          &lt;td&gt;Orthoptera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Famille Orthoptera&lt;/td&gt;
+          &lt;td&gt;Acrididae&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Genre&lt;/td&gt;
+          &lt;td&gt;Miramella&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Espèce&lt;/td&gt;
+          &lt;td&gt;alpina&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Nom commun&lt;/td&gt;
+          &lt;td&gt;Miramelle alpestre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Identificateur&lt;/td&gt;
+          &lt;td&gt;Kollar&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Année d’identification&lt;/td&gt;
+          &lt;td&gt;1833&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Catégorie UICN (2001-2003)&lt;/td&gt;
+          &lt;td&gt;LC (non menacé)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Couleur&lt;/td&gt;
+          &lt;td&gt;vert brillant chez les deux sexes avec des bandes noires&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle min&lt;/td&gt;
+          &lt;td&gt;16&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle max&lt;/td&gt;
+          &lt;td&gt;23&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle min&lt;/td&gt;
+          &lt;td&gt;22&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle max&lt;/td&gt;
+          &lt;td&gt;30&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période début&lt;/td&gt;
+          &lt;td&gt;juin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période fin&lt;/td&gt;
+          &lt;td&gt;septembre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Zone&lt;/td&gt;
+          &lt;td&gt;Europe&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/orthoptera/acrididae/miramella_sp/miramella_alpina_01.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/orthoptera/acrididae/miramella_sp/miramella_alpina_01.jpg&#34; alt=&#34;miramella_alpina_01.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;xxxx&lt;/div&gt;
+    
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;genre-oedipoda&#34;&gt;Genre Oedipoda&lt;/h2&gt;
+&lt;h2 id=&#34;oedipoda-caerulescens&#34;&gt;Oedipoda caerulescens&lt;/h2&gt;
+&lt;div class=&#34;fiche-box&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ordre&lt;/td&gt;
+          &lt;td&gt;Orthoptera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Famille Orthoptera&lt;/td&gt;
+          &lt;td&gt;Acrididae&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Genre&lt;/td&gt;
+          &lt;td&gt;Oedipoda&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Espèce&lt;/td&gt;
+          &lt;td&gt;caerulescens&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Nom commun&lt;/td&gt;
+          &lt;td&gt;Oedipe Turquoise&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Identificateur&lt;/td&gt;
+          &lt;td&gt;Linnaeus&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Année d’identification&lt;/td&gt;
+          &lt;td&gt;1758&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Catégorie UICN (2001-2003)&lt;/td&gt;
+          &lt;td&gt;NT (potentiellement menacé)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Couleur&lt;/td&gt;
+          &lt;td&gt;brun-gris / Ailes bleues&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle min&lt;/td&gt;
+          &lt;td&gt;15&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle max&lt;/td&gt;
+          &lt;td&gt;21&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle min&lt;/td&gt;
+          &lt;td&gt;22&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle max&lt;/td&gt;
+          &lt;td&gt;28&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période début&lt;/td&gt;
+          &lt;td&gt;juillet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période fin&lt;/td&gt;
+          &lt;td&gt;septembre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Zone&lt;/td&gt;
+          &lt;td&gt;Europe, Asie, Afrique du Nord&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;h2 id=&#34;oedipoda-germanica&#34;&gt;Oedipoda germanica&lt;/h2&gt;
+&lt;div class=&#34;fiche-box&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ordre&lt;/td&gt;
+          &lt;td&gt;Orthoptera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Famille Orthoptera&lt;/td&gt;
+          &lt;td&gt;Acrididae&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Genre&lt;/td&gt;
+          &lt;td&gt;Oedipoda&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Espèce&lt;/td&gt;
+          &lt;td&gt;germanica&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Nom commun&lt;/td&gt;
+          &lt;td&gt;Oedipode à Ailes Rouges&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Identificateur&lt;/td&gt;
+          &lt;td&gt;Latreille&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Année d’identification&lt;/td&gt;
+          &lt;td&gt;1804&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Catégorie UICN (2001-2003)&lt;/td&gt;
+          &lt;td&gt;VU (vulnérable)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Couleur&lt;/td&gt;
+          &lt;td&gt;brun clair à brun foncé / Ailes rouges&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle min&lt;/td&gt;
+          &lt;td&gt;15&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle max&lt;/td&gt;
+          &lt;td&gt;22&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle min&lt;/td&gt;
+          &lt;td&gt;22&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle max&lt;/td&gt;
+          &lt;td&gt;30&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période début&lt;/td&gt;
+          &lt;td&gt;juillet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période fin&lt;/td&gt;
+          &lt;td&gt;novembre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Zone&lt;/td&gt;
+          &lt;td&gt;Europe&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/orthoptera/acrididae/oedipoda_sp/oedipoda_germanica_01.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/orthoptera/acrididae/oedipoda_sp/oedipoda_germanica_01.jpg&#34; alt=&#34;oedipoda_germanica_01.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;xxxx&lt;/div&gt;
+    
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/orthoptera/acrididae/oedipoda_sp/oedipoda_germanica_02.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/orthoptera/acrididae/oedipoda_sp/oedipoda_germanica_02.jpg&#34; alt=&#34;oedipoda_germanica_02.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;xxxx&lt;/div&gt;
+    
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;genre-podisma&#34;&gt;Genre Podisma&lt;/h2&gt;
+&lt;h2 id=&#34;podisma-pedestris&#34;&gt;Podisma pedestris&lt;/h2&gt;
+&lt;div class=&#34;fiche-box&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ordre&lt;/td&gt;
+          &lt;td&gt;Orthoptera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Famille Orthoptera&lt;/td&gt;
+          &lt;td&gt;Acrididae&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Genre&lt;/td&gt;
+          &lt;td&gt;Podisma&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Espèce&lt;/td&gt;
+          &lt;td&gt;pedestris&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Nom commun&lt;/td&gt;
+          &lt;td&gt;Miramelle des Moraines&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Identificateur&lt;/td&gt;
+          &lt;td&gt;Linnaeus&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Année d’identification&lt;/td&gt;
+          &lt;td&gt;1758&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Catégorie UICN (2001-2003)&lt;/td&gt;
+          &lt;td&gt;LC (non menacé)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Couleur&lt;/td&gt;
+          &lt;td&gt;jaune-gris à brun-orange&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle min&lt;/td&gt;
+          &lt;td&gt;17&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle max&lt;/td&gt;
+          &lt;td&gt;25&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle min&lt;/td&gt;
+          &lt;td&gt;24&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle max&lt;/td&gt;
+          &lt;td&gt;30&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période début&lt;/td&gt;
+          &lt;td&gt;juin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période fin&lt;/td&gt;
+          &lt;td&gt;octobre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Zone&lt;/td&gt;
+          &lt;td&gt;Europe&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/orthoptera/acrididae/podisma_sp/podisma_pedestris_01.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/orthoptera/acrididae/podisma_sp/podisma_pedestris_01.jpg&#34; alt=&#34;podisma_pedestris_01.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;xxxx&lt;/div&gt;
+    
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/orthoptera/acrididae/podisma_sp/podisma_pedestris_02.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/orthoptera/acrididae/podisma_sp/podisma_pedestris_02.jpg&#34; alt=&#34;podisma_pedestris_02.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;xxxx&lt;/div&gt;
+    
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/orthoptera/acrididae/podisma_sp/podisma_pedestris_03.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/orthoptera/acrididae/podisma_sp/podisma_pedestris_03.jpg&#34; alt=&#34;podisma_pedestris_03.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;xxxx&lt;/div&gt;
+    
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/orthoptera/acrididae/podisma_sp/podisma_pedestris_04.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/orthoptera/acrididae/podisma_sp/podisma_pedestris_04.jpg&#34; alt=&#34;podisma_pedestris_04.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;xxxx&lt;/div&gt;
+    
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;genre-pseudochorthippus&#34;&gt;Genre Pseudochorthippus&lt;/h2&gt;
+&lt;h2 id=&#34;pseudochorthippus-parallelus&#34;&gt;Pseudochorthippus parallelus&lt;/h2&gt;
+&lt;div class=&#34;fiche-box&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ordre&lt;/td&gt;
+          &lt;td&gt;Orthoptera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Famille Orthoptera&lt;/td&gt;
+          &lt;td&gt;Acrididae&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Genre&lt;/td&gt;
+          &lt;td&gt;Pseudochorthippus&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Espèce&lt;/td&gt;
+          &lt;td&gt;parallelus&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Nom commun&lt;/td&gt;
+          &lt;td&gt;Criquet des Pâtures&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Identificateur&lt;/td&gt;
+          &lt;td&gt;Zetterstedt&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Année d’identification&lt;/td&gt;
+          &lt;td&gt;1821&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Catégorie UICN (2001-2003)&lt;/td&gt;
+          &lt;td&gt;LC (non menacé)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Couleur&lt;/td&gt;
+          &lt;td&gt;vert-brun-pourpre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle min&lt;/td&gt;
+          &lt;td&gt;15&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle max&lt;/td&gt;
+          &lt;td&gt;15&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle min&lt;/td&gt;
+          &lt;td&gt;20&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle max&lt;/td&gt;
+          &lt;td&gt;20&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période début&lt;/td&gt;
+          &lt;td&gt;juin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période fin&lt;/td&gt;
+          &lt;td&gt;novembre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Zone&lt;/td&gt;
+          &lt;td&gt;Europe, Asie&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/orthoptera/acrididae/pseudochorthippus_sp/pseudochorthippus_parallelus_01.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/orthoptera/acrididae/pseudochorthippus_sp/pseudochorthippus_parallelus_01.jpg&#34; alt=&#34;pseudochorthippus_parallelus_01.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;xxxx&lt;/div&gt;
+    
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;genre-trilophidia&#34;&gt;Genre Trilophidia&lt;/h2&gt;
+&lt;h2 id=&#34;trilophidia-annulata&#34;&gt;Trilophidia annulata&lt;/h2&gt;
+&lt;div class=&#34;fiche-box&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ordre&lt;/td&gt;
+          &lt;td&gt;Orthoptera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Famille Orthoptera&lt;/td&gt;
+          &lt;td&gt;Acrididae&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Genre&lt;/td&gt;
+          &lt;td&gt;Trilophidia&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Espèce&lt;/td&gt;
+          &lt;td&gt;annulata&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Nom commun&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Identificateur&lt;/td&gt;
+          &lt;td&gt;Thunberg&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Année d’identification&lt;/td&gt;
+          &lt;td&gt;1815&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Catégorie UICN (2001-2003)&lt;/td&gt;
+          &lt;td&gt;Non classé&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Couleur&lt;/td&gt;
+          &lt;td&gt;brun foncé&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle min&lt;/td&gt;
+          &lt;td&gt;13&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle max&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle min&lt;/td&gt;
+          &lt;td&gt;13&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle max&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période début&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période fin&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Zone&lt;/td&gt;
+          &lt;td&gt;Asie&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;hr&gt;</description>
     </item>
     <item>
       <title>Grillidae</title>
-      <link>https://damt1974.github.io/damt1974/orthoptera/orthoptera-gryllidae/</link>
+      <link>http://localhost:1313/arthropodes/orthopteres/gryllidae/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/orthoptera/orthoptera-gryllidae/</guid>
+      <guid>http://localhost:1313/arthropodes/orthopteres/gryllidae/</guid>
       <description>&lt;p&gt;GRYLLIDAE – LES GRYLLIDÉS – LES GRILLONS&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/ensifera-les-ensiferes/gryllidae-les-gryllides-les-grillons/#gryllus-campestris&#34;&gt;==Genre Gryllus==&lt;/a&gt;&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/ensifera-les-ensiferes/gryllidae-les-gryllides-les-grillons/#gryllus-campestris&#34;&gt;==Gryllus campestris==&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/ensifera-les-ensiferes/gryllidae-les-gryllides-les-grillons/#genre-nemobius&#34;&gt;==Genre Nemobius==&lt;/a&gt;&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/ensifera-les-ensiferes/gryllidae-les-gryllides-les-grillons/#nemobius-sylvestris&#34;&gt;==Nemobius sylvestris==&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;genre-gryllus&#34;&gt;&lt;strong&gt;==Genre Gryllus==&lt;/strong&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;_gryllus-campestris_&#34;&gt;&lt;strong&gt;&lt;em&gt;==Gryllus campestris==&lt;/em&gt;&lt;/strong&gt;&lt;/h3&gt;
-&lt;table&gt;
+&lt;h1 id=&#34;genre-gryllus&#34;&gt;Genre Gryllus&lt;/h1&gt;
+&lt;h2 id=&#34;gryllus-campestris&#34;&gt;Gryllus campestris&lt;/h2&gt;
+&lt;div class=&#34;fiche-box&#34;&gt;
+    &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th&gt;&lt;/th&gt;
@@ -231,72 +878,138 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://i0.wp.com/theraulaz.ch/wp-content/uploads/2024/01/gryllus_campestris_01.jpg?resize=740%2C555&amp;ssl=1&#34;&gt;&lt;/p&gt;</description>
+
+  &lt;/div&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/orthoptera/gryllidae/gryllus_sp/gryllus_campestris_01.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/orthoptera/gryllidae/gryllus_sp/gryllus_campestris_01.jpg&#34; alt=&#34;gryllus_campestris_01.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;xxxx&lt;/div&gt;
+    
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;h1 id=&#34;genre-nemobius&#34;&gt;Genre Nemobius&lt;/h1&gt;
+&lt;h3 id=&#34;nemobius-sylvestris&#34;&gt;Nemobius sylvestris&lt;/h3&gt;
+&lt;div class=&#34;fiche-box&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ordre&lt;/td&gt;
+          &lt;td&gt;Orthoptera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Famille Orthoptera&lt;/td&gt;
+          &lt;td&gt;Gryllidae&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Genre&lt;/td&gt;
+          &lt;td&gt;Nemobius&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Espèce&lt;/td&gt;
+          &lt;td&gt;sylvestris&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Nom commun&lt;/td&gt;
+          &lt;td&gt;Grillon des Bois&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Identificateur&lt;/td&gt;
+          &lt;td&gt;Bosc d’Antic&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Année d’identification&lt;/td&gt;
+          &lt;td&gt;1792&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Catégorie UICN (2001-2003)&lt;/td&gt;
+          &lt;td&gt;LC (non menacé)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Couleur&lt;/td&gt;
+          &lt;td&gt;brûnatre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle min&lt;/td&gt;
+          &lt;td&gt;7&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle max&lt;/td&gt;
+          &lt;td&gt;10&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle min&lt;/td&gt;
+          &lt;td&gt;7&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle max&lt;/td&gt;
+          &lt;td&gt;10&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période début&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période fin&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Zone&lt;/td&gt;
+          &lt;td&gt;Europe, Afrique du Nord&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;hr&gt;</description>
     </item>
     <item>
       <title>L&#39;Ordre des Orthoptères (Orthoptera)</title>
-      <link>https://damt1974.github.io/damt1974/macrophotographie/macrophotographie-orthoptera/</link>
+      <link>http://localhost:1313/macrophotographie/orthoptera/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/macrophotographie/macrophotographie-orthoptera/</guid>
+      <guid>http://localhost:1313/macrophotographie/orthoptera/</guid>
       <description>&lt;h1 id=&#34;lordre-des-orthoptères-orthoptera&#34;&gt;L’Ordre des Orthoptères (Orthoptera)&lt;/h1&gt;
 &lt;p&gt;Cet ordre est scindé en deux sous-ordres : les &lt;a href=&#34;https://fr.wikipedia.org/wiki/Ensifera&#34;&gt;ensifères&lt;/a&gt; (&lt;a href=&#34;https://fr.wikipedia.org/wiki/Gryllidae&#34;&gt;grillons&lt;/a&gt; et &lt;a href=&#34;https://fr.wikipedia.org/wiki/Sauterelle_(insecte)&#34;&gt;sauterelles&lt;/a&gt;) et les &lt;a href=&#34;https://fr.wikipedia.org/wiki/Caelifera&#34;&gt;caelifères&lt;/a&gt; (criquets).&lt;/p&gt;
 &lt;p&gt;La plupart des espèces connues sont &lt;a href=&#34;https://fr.wikipedia.org/wiki/Herbivore&#34;&gt;phytophages&lt;/a&gt;&lt;a href=&#34;https://fr.wikipedia.org/wiki/Orthoptera#cite_note-1&#34;&gt;1&lt;/a&gt;. On peut résumer en disant que les criquets, qui sont regroupés sous le sous-ordre des &lt;a href=&#34;https://fr.wikipedia.org/wiki/Caelifera&#34;&gt;Caelifera&lt;/a&gt;, sont exclusivement phytophages. Concernant les &lt;a href=&#34;https://fr.wikipedia.org/wiki/Ensifera&#34;&gt;Ensifera&lt;/a&gt; (les sauterelles et grillons), ça va dépendre des espèces mais leur régime varie de carnassier à phytophages à moins d’avoir les deux.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Caelifera – Les Caelifères – Les Criquets
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://damt1974.github.io/damt1974/orthoptera/orthoptera-acrididae/&#34; title=&#34;Acrididae&#34;&gt;Acrididae&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/arthropodes/orthopteres/acrididae/&#34; title=&#34;Acrididae&#34;&gt;Acrididae&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Ensifera – Les Ensifères
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://damt1974.github.io/damt1974/orthoptera/orthoptera-gryllidae/&#34; title=&#34;Gryllidae&#34;&gt;Gryllidae – Les Gryllidés&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://damt1974.github.io/damt1974/orthoptera/orthoptera-tettigoniidae/&#34; title=&#34;Tettigoniidae&#34;&gt;Tettigoniidae – Les Sauterelles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/arthropodes/orthopteres/gryllidae/&#34; title=&#34;Gryllidae&#34;&gt;Gryllidae – Les Gryllidés&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/arthropodes/orthopteres/tettigoniidae/&#34; title=&#34;Tettigoniidae&#34;&gt;Tettigoniidae – Les Sauterelles&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
       <title>Tettigoniidae</title>
-      <link>https://damt1974.github.io/damt1974/orthoptera/orthoptera-tettigoniidae/</link>
+      <link>http://localhost:1313/arthropodes/orthopteres/tettigoniidae/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/orthoptera/orthoptera-tettigoniidae/</guid>
+      <guid>http://localhost:1313/arthropodes/orthopteres/tettigoniidae/</guid>
       <description>&lt;p&gt;TETTIGONIIDAE – LES SAUTERELLES&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/ensifera-les-ensiferes/tettigoniidae-les-sauterelles/#genre-leptophyes&#34;&gt;==Genre Leptophyes==&lt;/a&gt;&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/ensifera-les-ensiferes/tettigoniidae-les-sauterelles/#leptophyes-punctatissima&#34;&gt;==Leptophyes punctatissima==&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/ensifera-les-ensiferes/tettigoniidae-les-sauterelles/#genre-meconema&#34;&gt;==Genre Meconema==&lt;/a&gt;&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/ensifera-les-ensiferes/tettigoniidae-les-sauterelles/#meconema-meridionale&#34;&gt;==Meconema meridionale==&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/ensifera-les-ensiferes/tettigoniidae-les-sauterelles/#genre-metrioptera&#34;&gt;==Genre Metrioptera==&lt;/a&gt;&lt;/strong&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/ensifera-les-ensiferes/tettigoniidae-les-sauterelles/#metrioptera-saussuriana&#34;&gt;==Metrioptera saussuriana==&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/ensifera-les-ensiferes/tettigoniidae-les-sauterelles/#genre-phaneroptera&#34;&gt;&lt;strong&gt;==Genre Phaneroptera==&lt;/strong&gt;&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/ensifera-les-ensiferes/tettigoniidae-les-sauterelles/#phaneroptera-nana&#34;&gt;==Phaneroptera nana==&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/ensifera-les-ensiferes/tettigoniidae-les-sauterelles/#genre-pholidoptera&#34;&gt;&lt;strong&gt;==Genre Pholidoptera==&lt;/strong&gt;&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/ensifera-les-ensiferes/tettigoniidae-les-sauterelles/#pholidoptera-griseoaptera&#34;&gt;==Pholidoptera griseoaptera==&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/ensifera-les-ensiferes/tettigoniidae-les-sauterelles/#genre-tettigonia&#34;&gt;&lt;strong&gt;==Genre Tettigonia==&lt;/strong&gt;&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;em&gt;&lt;a href=&#34;https://theraulaz.ch/macrophotographie/lordre-des-orthopteres-orthoptera/ensifera-les-ensiferes/tettigoniidae-les-sauterelles/#tettigonia-viridissima&#34;&gt;==Tettigonia viridissima==&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;genre-leptophyes&#34;&gt;&lt;strong&gt;==Genre Leptophyes==&lt;/strong&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;_leptophyes-punctatissima_&#34;&gt;&lt;strong&gt;&lt;em&gt;==Leptophyes punctatissima==&lt;/em&gt;&lt;/strong&gt;&lt;/h3&gt;
-&lt;table&gt;
+&lt;h2 id=&#34;genre-leptophyes&#34;&gt;Genre Leptophyes&lt;/h2&gt;
+&lt;h3 id=&#34;leptophyes-punctatissima&#34;&gt;Leptophyes punctatissima&lt;/h3&gt;
+&lt;div class=&#34;fiche-box&#34;&gt;
+    &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th&gt;&lt;/th&gt;
@@ -370,7 +1083,409 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://i0.wp.com/theraulaz.ch/wp-content/uploads/2024/01/leptophyes_punctatissima_01.jpg?resize=740%2C987&amp;ssl=1&#34;&gt;&lt;/p&gt;</description>
+
+  &lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;genre-meconema&#34;&gt;Genre Meconema&lt;/h2&gt;
+&lt;h3 id=&#34;meconema-meridionale&#34;&gt;Meconema meridionale&lt;/h3&gt;
+&lt;div class=&#34;fiche-box&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ordre&lt;/td&gt;
+          &lt;td&gt;Orthoptera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Famille Orthoptera&lt;/td&gt;
+          &lt;td&gt;Tettigoniidae&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Genre&lt;/td&gt;
+          &lt;td&gt;Meconema&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Espèce&lt;/td&gt;
+          &lt;td&gt;meridionale&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Nom commun&lt;/td&gt;
+          &lt;td&gt;Méconème Fragile&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Identificateur&lt;/td&gt;
+          &lt;td&gt;Costa&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Année d’identification&lt;/td&gt;
+          &lt;td&gt;1860&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Catégorie UICN (2001-2003)&lt;/td&gt;
+          &lt;td&gt;LC (non menacé)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Couleur&lt;/td&gt;
+          &lt;td&gt;vert-clair&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle min&lt;/td&gt;
+          &lt;td&gt;11&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle max&lt;/td&gt;
+          &lt;td&gt;16&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle min&lt;/td&gt;
+          &lt;td&gt;12&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle max&lt;/td&gt;
+          &lt;td&gt;16&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période début&lt;/td&gt;
+          &lt;td&gt;septembre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période fin&lt;/td&gt;
+          &lt;td&gt;octobre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Zone&lt;/td&gt;
+          &lt;td&gt;Europe&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;genre-metrioptera&#34;&gt;Genre Metrioptera&lt;/h2&gt;
+&lt;h3 id=&#34;metrioptera-saussuriana&#34;&gt;Metrioptera saussuriana&lt;/h3&gt;
+&lt;div class=&#34;fiche-box&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ordre&lt;/td&gt;
+          &lt;td&gt;Orthoptera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Famille Orthoptera&lt;/td&gt;
+          &lt;td&gt;Tettigoniidae&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Genre&lt;/td&gt;
+          &lt;td&gt;Metrioptera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Espèce&lt;/td&gt;
+          &lt;td&gt;saussuriana&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Nom commun&lt;/td&gt;
+          &lt;td&gt;Décitelle des alpages&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Identificateur&lt;/td&gt;
+          &lt;td&gt;Frey-Gessner&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Année d’identification&lt;/td&gt;
+          &lt;td&gt;1872&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Catégorie UICN (2001-2003)&lt;/td&gt;
+          &lt;td&gt;LC (non menacé)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Couleur&lt;/td&gt;
+          &lt;td&gt;brun-vert&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle min&lt;/td&gt;
+          &lt;td&gt;16&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle max&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle min&lt;/td&gt;
+          &lt;td&gt;17&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle max&lt;/td&gt;
+          &lt;td&gt;24&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période début&lt;/td&gt;
+          &lt;td&gt;juin&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période fin&lt;/td&gt;
+          &lt;td&gt;septembre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Zone&lt;/td&gt;
+          &lt;td&gt;Europe&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;genre-phaneroptera&#34;&gt;Genre Phaneroptera&lt;/h2&gt;
+&lt;h3 id=&#34;phaneroptera-nana&#34;&gt;Phaneroptera nana&lt;/h3&gt;
+&lt;div class=&#34;fiche-box&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ordre&lt;/td&gt;
+          &lt;td&gt;Orthoptera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Famille Orthoptera&lt;/td&gt;
+          &lt;td&gt;Tettigoniidae&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Genre&lt;/td&gt;
+          &lt;td&gt;Phaneroptera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Espèce&lt;/td&gt;
+          &lt;td&gt;nana&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Nom commun&lt;/td&gt;
+          &lt;td&gt;Phanéroptère Médidional&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Identificateur&lt;/td&gt;
+          &lt;td&gt;Fieber&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Année d’identification&lt;/td&gt;
+          &lt;td&gt;1853&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Catégorie UICN (2001-2003)&lt;/td&gt;
+          &lt;td&gt;LC (non menacé)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Couleur&lt;/td&gt;
+          &lt;td&gt;vert-jaune&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle min&lt;/td&gt;
+          &lt;td&gt;13&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle max&lt;/td&gt;
+          &lt;td&gt;15&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle min&lt;/td&gt;
+          &lt;td&gt;13&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle max&lt;/td&gt;
+          &lt;td&gt;15&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période début&lt;/td&gt;
+          &lt;td&gt;août&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période fin&lt;/td&gt;
+          &lt;td&gt;octobre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Zone&lt;/td&gt;
+          &lt;td&gt;Europe, Afrique du Nord&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;genre-pholidoptera&#34;&gt;Genre Pholidoptera&lt;/h2&gt;
+&lt;h3 id=&#34;pholidoptera-griseoaptera&#34;&gt;Pholidoptera griseoaptera&lt;/h3&gt;
+&lt;div class=&#34;fiche-box&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ordre&lt;/td&gt;
+          &lt;td&gt;Orthoptera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Famille Orthoptera&lt;/td&gt;
+          &lt;td&gt;Tettigoniidae&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Genre&lt;/td&gt;
+          &lt;td&gt;Pholidoptera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Espèce&lt;/td&gt;
+          &lt;td&gt;griseoaptera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Nom commun&lt;/td&gt;
+          &lt;td&gt;decticelle cendrée – Pholidoptère grise&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Identificateur&lt;/td&gt;
+          &lt;td&gt;De Geer&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Année d’identification&lt;/td&gt;
+          &lt;td&gt;1773&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Catégorie UICN (2001-2003)&lt;/td&gt;
+          &lt;td&gt;LC (non menacé)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Couleur&lt;/td&gt;
+          &lt;td&gt;brun clair à châtain ou presque noires&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle min&lt;/td&gt;
+          &lt;td&gt;13&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle max&lt;/td&gt;
+          &lt;td&gt;15&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle min&lt;/td&gt;
+          &lt;td&gt;15&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle max&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période début&lt;/td&gt;
+          &lt;td&gt;mai&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période fin&lt;/td&gt;
+          &lt;td&gt;novembre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Zone&lt;/td&gt;
+          &lt;td&gt;Europe&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;genre-tettigonia&#34;&gt;Genre Tettigonia&lt;/h2&gt;
+&lt;h3 id=&#34;tettigonia-viridissima&#34;&gt;Tettigonia viridissima&lt;/h3&gt;
+&lt;div class=&#34;fiche-box&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ordre&lt;/td&gt;
+          &lt;td&gt;Orthoptera&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Famille Orthoptera&lt;/td&gt;
+          &lt;td&gt;Tettigoniidae&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Genre&lt;/td&gt;
+          &lt;td&gt;Tettigonia&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Espèce&lt;/td&gt;
+          &lt;td&gt;viridissima&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Nom commun&lt;/td&gt;
+          &lt;td&gt;Grande Sauterelle Verte&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Identificateur&lt;/td&gt;
+          &lt;td&gt;Linnaeus&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Année d’identification&lt;/td&gt;
+          &lt;td&gt;1758&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Catégorie UICN (2001-2003)&lt;/td&gt;
+          &lt;td&gt;LC (non menacé)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Couleur&lt;/td&gt;
+          &lt;td&gt;vert&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle min&lt;/td&gt;
+          &lt;td&gt;28&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille mâle max&lt;/td&gt;
+          &lt;td&gt;36&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle min&lt;/td&gt;
+          &lt;td&gt;32&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille femelle max&lt;/td&gt;
+          &lt;td&gt;42&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période début&lt;/td&gt;
+          &lt;td&gt;juillet&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période fin&lt;/td&gt;
+          &lt;td&gt;octobre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Zone&lt;/td&gt;
+          &lt;td&gt;Europe, Asie&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+&lt;hr&gt;</description>
     </item>
   </channel>
 </rss>

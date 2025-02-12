@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lunaire on theraulaz.ch</title>
+    <link>http://localhost:1313/tags/lunaire/</link>
+    <description>Recent content in Lunaire on theraulaz.ch</description>
+    <image>
+      <title>theraulaz.ch</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lunaire/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Le Lunaire</title>
+      <link>http://localhost:1313/astrophotographie/lunaire/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/astrophotographie/lunaire/</guid>
+      <description>&lt;h1 id=&#34;le-lunaire&#34;&gt;Le Lunaire&lt;/h1&gt;
+&lt;p&gt;La photographie lunaire est l&amp;rsquo;art et la science de capturer des images de la Lune à l&amp;rsquo;aide d&amp;rsquo;appareils photo ou de caméras spécialement conçus. C&amp;rsquo;est une discipline qui a fasciné les astronomes, les photographes et le grand public depuis l&amp;rsquo;invention de la photographie.&lt;/p&gt;
+&lt;h1 id=&#34;la-photographie-lunaire&#34;&gt;La photographie Lunaire&lt;/h1&gt;
+&lt;p&gt;La photographie lunaire remonte aux premières expériences photographiques du XIXe siècle. En 1840, John William Draper réalisa l&amp;rsquo;une des premières photographies de la Lune. Au fil des décennies, les techniques photographiques ont évolué, permettant des images de plus en plus détaillées et précises de la surface de la lune.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

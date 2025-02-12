@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kanchanaburi on theraulaz.ch</title>
-    <link>https://damt1974.github.io/damt1974/tags/kanchanaburi/</link>
+    <link>http://localhost:1313/tags/kanchanaburi/</link>
     <description>Recent content in Kanchanaburi on theraulaz.ch</description>
     <image>
       <title>theraulaz.ch</title>
-      <url>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://damt1974.github.io/damt1974/tags/kanchanaburi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/kanchanaburi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kanchanaburi</title>
-      <link>https://damt1974.github.io/damt1974/tha%C3%AFlande/tha%C3%AFlande-kanchanaburi/</link>
+      <link>http://localhost:1313/asie/tha%C3%AFlande/kanchanaburi/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/tha%C3%AFlande/tha%C3%AFlande-kanchanaburi/</guid>
-      <description>Kanchanaburi se situe à l&amp;#39;ouest de Bangkok, à environ 2h30 (144km) en voiture. Elle est célèbre pour son pont qui est le sujet d&amp;#39;un roman de Pierre Boule, puis d&amp;#39;un film à succès, &amp;#34;Le Pont de la Rivière Kwaï&amp;#34; de David Lean. En résumé, ce pont a été construit par 130&amp;#39;000 prisonniers de guerre sur les ordres de japonais, en 1942. Il avait pour but de relier la Thaïlande à la Birmanie, par la ligne Siam-Birmanie. Cette ligne est nommée la &amp;#34;voie ferrée de la mort&amp;#34; compte tenu des 16&amp;#39;000 prisonniers morts sur le chantier. Le pont fut bombardé et détruit en juin 1945. Le nouveau pont n&amp;#39;est donc plus celui d&amp;#39;origine.
+      <guid>http://localhost:1313/asie/tha%C3%AFlande/kanchanaburi/</guid>
+      <description>&amp;#34;Kanchanaburi se situe à l&amp;#39;ouest de Bangkok, à environ 2h30 (144km) en voiture. Elle est célèbre pour son pont qui est le sujet d&amp;#39;un roman de Pierre Boule, puis d&amp;#39;un film à succès, &amp;#34;Le Pont de la Rivière Kwaï&amp;#34; de David Lean. En résumé, ce pont a été construit par 130&amp;#39;000 prisonniers de guerre sur les ordres de japonais, en 1942. Il avait pour but de relier la Thaïlande à la Birmanie, par la ligne Siam-Birmanie. Cette ligne est nommée la &amp;#34;voie ferrée de la mort&amp;#34; compte tenu des 16&amp;#39;000 prisonniers morts sur le chantier. Le pont fut bombardé et détruit en juin 1945. Le nouveau pont n&amp;#39;est donc plus celui d&amp;#39;origine.&amp;#34;
 </description>
     </item>
   </channel>

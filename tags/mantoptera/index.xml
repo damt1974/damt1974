@@ -2,30 +2,325 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mantoptera on theraulaz.ch</title>
-    <link>https://damt1974.github.io/damt1974/tags/mantoptera/</link>
+    <link>http://localhost:1313/tags/mantoptera/</link>
     <description>Recent content in Mantoptera on theraulaz.ch</description>
     <image>
       <title>theraulaz.ch</title>
-      <url>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://damt1974.github.io/damt1974/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.140.2</generator>
     <language>fr</language>
     <lastBuildDate>Mon, 06 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://damt1974.github.io/damt1974/tags/mantoptera/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/mantoptera/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L&#39;Ordre des Mantoptères (Mantoptera)</title>
-      <link>https://damt1974.github.io/damt1974/macrophotographie/macrophotographie-mantodae/</link>
+      <link>http://localhost:1313/macrophotographie/mantodea/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://damt1974.github.io/damt1974/macrophotographie/macrophotographie-mantodae/</guid>
+      <guid>http://localhost:1313/macrophotographie/mantodea/</guid>
       <description>&lt;p&gt;L’Ordre des Mantoptères (Mantodae)&lt;/p&gt;
 &lt;p&gt;Les Mantoptères (Mantodea) sont un ordre d’insectes qui contient 15 familles, 430 genres et plus de 2 400 espèces[1]. &lt;/p&gt;
 &lt;p&gt;Les membres de cet ordre se retrouvent dans les régions tempérées et tropicales. La plupart des espèces font partie de la famille des Mantidae.&lt;/p&gt;
 &lt;p&gt;Créé par les classifications phylogénétiques récentes, il constitue, avec l’ordre des blattoptères (Blattodea), le super-ordre des Polyneoptera.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://damt1974.github.io/damt1974/mantodae/mantodae-empusidae/&#34; title=&#34;Empusidae&#34;&gt;Empusidae&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://damt1974.github.io/damt1974/mantodae/mantodae-mantidae/&#34; title=&#34;Mantidae&#34;&gt;Mantidae&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/arthropodes/mantopteres/empusidae/&#34; title=&#34;Empusidae&#34;&gt;Empusidae&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/arthropodes/mantopteres/mantidae/&#34; title=&#34;Mantidae&#34;&gt;Mantidae&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Mantodae-Empusidae</title>
+      <link>http://localhost:1313/arthropodes/mantopteres/empusidae/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/arthropodes/mantopteres/empusidae/</guid>
+      <description>&lt;p&gt;EMPUSIDAE – LES EMPUSES
+Chez les Empusidae, la tête est de forme triangulaire et elle est plus large que longue. Les yeux sont largement espacés et ils sont dominants. Les antennes des mâles sont de forme pectiniforme et ils s’en servent pour capter les phéromones des femelles (source: wikipedia).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;genre-empusa&#34;&gt;Genre Empusa&lt;/h2&gt;
+&lt;h3 id=&#34;empusa-pennata&#34;&gt;Empusa pennata&lt;/h3&gt;
+&lt;div class=&#34;fiche-box&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ordre&lt;/td&gt;
+          &lt;td&gt;Mantodea&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Famille Mantodea&lt;/td&gt;
+          &lt;td&gt;Empusidae&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Genre&lt;/td&gt;
+          &lt;td&gt;Empusa&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Espèce&lt;/td&gt;
+          &lt;td&gt;pennata&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Nom commun&lt;/td&gt;
+          &lt;td&gt;Empuse commune&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Identificateur&lt;/td&gt;
+          &lt;td&gt;Thunberg&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Année d’identification&lt;/td&gt;
+          &lt;td&gt;1815&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Catégorie UICN (2001-2003)&lt;/td&gt;
+          &lt;td&gt;Non classé&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Couleur&lt;/td&gt;
+          &lt;td&gt;marron – vert&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille min&lt;/td&gt;
+          &lt;td&gt;50&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille max&lt;/td&gt;
+          &lt;td&gt;67&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période début&lt;/td&gt;
+          &lt;td&gt;mai&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période fin&lt;/td&gt;
+          &lt;td&gt;août&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Zone&lt;/td&gt;
+          &lt;td&gt;Bassin méditérannéen&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/empusidae/empusa_sp/empusa_pennata_01.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/empusidae/empusa_sp/empusa_pennata_01.jpg&#34; alt=&#34;empusa_pennata_01.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;Empuse pennata, Ramatuelle, France&lt;/div&gt;
+    
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/empusidae/empusa_sp/empusa_pennata_02.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/empusidae/empusa_sp/empusa_pennata_02.jpg&#34; alt=&#34;empusa_pennata_02.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;Empuse pennata, Ramatuelle, France&lt;/div&gt;
+    
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/empusidae/empusa_sp/empusa_pennata_03.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/empusidae/empusa_sp/empusa_pennata_03.jpg&#34; alt=&#34;empusa_pennata_03.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;Empuse pennata, Ramatuelle, France&lt;/div&gt;
+    
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/empusidae/empusa_sp/empusa_pennata_04.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/empusidae/empusa_sp/empusa_pennata_04.jpg&#34; alt=&#34;empusa_pennata_04.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;Empuse pennata, Ramatuelle, France&lt;/div&gt;
+    
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/empusidae/empusa_sp/empusa_pennata_05.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/empusidae/empusa_sp/empusa_pennata_05.jpg&#34; alt=&#34;empusa_pennata_05.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;Empuse pennata, Ramatuelle, France&lt;/div&gt;
+    
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Mantodae-Mantidae</title>
+      <link>http://localhost:1313/arthropodes/mantopteres/mantidae/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/arthropodes/mantopteres/mantidae/</guid>
+      <description>&lt;p&gt;MANTIDAE – LES MANTES
+Chez les Mantidae – Les Mantes, la tête est de forme triangulaire et elle est plus large que longue. Les yeux sont largement espacés et ils sont dominants. Les &lt;a href=&#34;https://fr.wikipedia.org/wiki/Ocelle_(%C5%93il)&#34;&gt;ocelles&lt;/a&gt; sont généralement bien développés chez le mâle. Les antennes sont filiformes, parfois ciliées ou épaissies. Les pièces buccales sont de type broyeur et elles se retrouvent à l’avant de la tête. (source: Wikipedia)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;genre-mantis&#34;&gt;Genre Mantis&lt;/h2&gt;
+&lt;h3 id=&#34;mantis-religiosa&#34;&gt;Mantis religiosa&lt;/h3&gt;
+&lt;div class=&#34;fiche-box&#34;&gt;
+    &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ordre&lt;/td&gt;
+          &lt;td&gt;Mantodea&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Famille Mantodea&lt;/td&gt;
+          &lt;td&gt;Mantidae&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Genre&lt;/td&gt;
+          &lt;td&gt;Mantis&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Espèce&lt;/td&gt;
+          &lt;td&gt;religiosa&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Nom commun&lt;/td&gt;
+          &lt;td&gt;Mante religieuse&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Identificateur&lt;/td&gt;
+          &lt;td&gt;Linnaeus&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Année d’identification&lt;/td&gt;
+          &lt;td&gt;1758&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Catégorie UICN (2001-2003)&lt;/td&gt;
+          &lt;td&gt;LC (non menacé)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Couleur&lt;/td&gt;
+          &lt;td&gt;Verte&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille min&lt;/td&gt;
+          &lt;td&gt;60&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Taille max&lt;/td&gt;
+          &lt;td&gt;80&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période début&lt;/td&gt;
+          &lt;td&gt;août&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Période fin&lt;/td&gt;
+          &lt;td&gt;octobre&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Zone&lt;/td&gt;
+          &lt;td&gt;Europe, Asie, Bassin méditérannéen, Afrique du Nord&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/mantidae/mantis_sp/mantis_religiosa_01.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/mantidae/mantis_sp/mantis_religiosa_01.jpg&#34; alt=&#34;mantis_religiosa_01.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;Mantis religiosa, Suisse&lt;/div&gt;
+    
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/mantidae/mantis_sp/mantis_religiosa_02.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/mantidae/mantis_sp/mantis_religiosa_02.jpg&#34; alt=&#34;mantis_religiosa_02.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;Mantis religiosa, Suisse&lt;/div&gt;
+    
+&lt;/div&gt;
+
+
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/mantidae/mantis_sp/mantis_religiosa_03.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/mantidae/mantis_sp/mantis_religiosa_03.jpg&#34; alt=&#34;mantis_religiosa_03.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;Mantis religiosa, Suisse&lt;/div&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;
+
+
+
+
+
+&lt;div&gt;
+    &lt;a href=&#34;http://localhost:1313/images/macrophotographie/mantidae/mantis_sp/mantis_religiosa_04.jpg&#34; target=&#34;_blank&#34; style=&#34;text-decoration: none;&#34;&gt;
+        &lt;img src=&#34;http://localhost:1313/images/macrophotographie/mantidae/mantis_sp/mantis_religiosa_04.jpg&#34; alt=&#34;mantis_religiosa_04.jpg&#34; style=&#34;max-width: 100%; height: auto; display: block; margin: auto; border-radius: 8px;&#34;&gt;
+    &lt;/a&gt;
+    
+        &lt;div style=&#34;font-size: 0.9rem; color: #b1b0b0; margin-top: 10px; text-align: center;&#34;&gt;Mantis religiosa, Suisse&lt;/div&gt;
+    
+&lt;/div&gt;
+
+mantis_religiosa_05&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
